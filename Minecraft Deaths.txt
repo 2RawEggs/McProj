@@ -1,0 +1,80 @@
+" was pricked to death" | "Appears when a player is killed because they were touching a cactus" | "minecraft_cactus.png"
+
+" walked into a cactus while trying to escape <mob>" | "Appears when the player is hurt by a mob, then killed by touching a cactus" | "minecraft_cactus.png"
+
+" drowned" | "Appears when the player runs out of air underwater and is killed from drowning damage" | "minecraft_water_bucket.png"
+
+" experienced kinetic energy" | "Appears when the player is killed by hitting a wall while flying with elytra on" | "minecraft_elytra.png"
+
+" blew up" | "Appears when the player is killed by TNT.." | "minecraft_tnt.png"
+
+" was killed by intentional game design" | "Appears when the player is killed by a bed exploding in the Nether or the End, or by a charged respawn anchor exploding in the Overworld or the End" | "minecraft_end_portal_frame.png"
+
+" hit the ground too hard" | "Appears when the player is killed by a less than 5 block fall, ender pearl damage, or falling while riding an entity that died due to fall damage" | "minecraft_feather.png"
+
+" fell off some vines" | "Appears when the player if killed by falling after being on a vine" | "minecraft_vine.png"
+
+" fell off some weeping vines" | "Appears when the player is killed by falling after being on a weeping vine" | "minecraft_weeping_vines.png"
+
+" fell off some twisting vines" | "Appears when the player is killed by falling after being on a twisting vine" | "minecraft_twisting_vines.png"
+
+" fell off scaffolding" | "Appears when the player is killed by falling after traversing up or down through scaffolding" | "minecraft_scaffolding.png"
+
+" was doomed to fall by <mob>" | "Appears when the player takes any damage caused by an entity, then dies to a greater than 5 block fall" | "minecraft_iron_boots.png"
+
+" was impaled on a stalagmite" | "Appears when the player falls on a stalagmite and dies" | "minecraft_pointed_dripstone.png"
+
+" was skewered by a falling salactite" | "Appears when the player is killed by a falling stalactite" | "minecraft_pointed_dripstone.png"
+
+" was squashed by a falling anvil" | "Appears when the player is killed by an anvil falling on their head" | "minecraft_anvil.png"
+
+" went up in flames" | "Appears when the player is killed because they were in a fire source block" | "minecraft_fire_charge.png"
+
+" burned to death" | "Appears when the player is killed because they were on fire, but not in a fire source block" | "minecraft_fire_charge.png"
+
+" went off with a bang" | "Appears when the player is killed by the explosion of a firework rocket" | "minecraft_firework_rocket.png"
+
+" tried to swim in lava" | "Appears when the player is killed because they were in lava" | "minecraft_lava_bucket.png"
+
+" was struck by lightning" | "Appears when the player is killed by a lightning bolt" | "minecraft_lightning_rod.png"
+
+" was struck by lightning while fighting <mob>" | "Appears when the player is hurt by a mob, then killed by a lightning bolt" | "minecraft_trident.png"
+
+" discovered the floor was lava" | "Appears when the player is killed because they were standing on a magma block" | "minecraft_magma_block.png"
+
+" walked into the danger zone due to <mob>" | "Appears when the player is hurt by a mob, then killed by magma block damage" | "minecraft_magma_block.png"
+
+" froze to death" | "Appears when the player is killed because they were in powdered snow for too long" | "minecraft_powder_snow_bucket.png"
+
+" was slain by <mob> | "Appears when the player is hurt by a mob and killed" | "minecraft_stone_sword.png"
+
+" was stung to death" | "Appears when the player is killed by a bee" | "minecraft_bee_nest.png"
+
+" was stung to death by <mob> using <item> | "Appears when a player is killed by a bee that was holding a renamed item during the player's death" | "minecraft_bee_nest.png"
+
+" was obliterated by a sonically-charged shriek" | "Appears when a player is killed by a Warden using its sonic boom" | "minecraft_sculk_shrieker.png"
+
+" was obliterated by a sonically-charged shriek while trying to escape <mob> wielding <item> | "Appears when the player is killed by a Warden holding a renamed item using its sonic boom" | "minecraft_sculk_shrieker.png"
+
+" was shot by <mob>" | "Appears when the player is killed by an arrow shot by a mob using a bow or crossbow" | "minecraft_arrow.png"
+
+" was fireballed by <mob> | "Appears when the player is killed by a fireball shot by a mob" | "minecraft_fire_charge.png"
+
+" was shot by a skull from <mob> | "Appears when the player is killed by a wither skull shot by a Wither" | "minecraft_wither_rose.png"
+
+" starved to death" | "Appears when the player plays in Hard or Hardcore and is killed by hunger damage" | "minecraft_egg.png"
+
+" starved to death while fighting <mob>" | "Appears when the player plays in Hard or Hardcore and is hurt by a mob, then killed by hunger damage" | "minecraft_cake.png"
+
+" suffocated in a wall" | "Appears when the player is killed because they were inside of a non-transparent block" | "minecraft_sand.png"
+
+" left the confines ofthis world" | "Appears when the player is killed because they were outside the world border" | "minecraft_barrier.png" 
+
+" was poked to death by a sweet berry bush" | "Appears when the player is killed because they were in a sweet berry bush" | "minecraft_sweet_berries.png"
+
+" was killed while trying to hurt <mob> | "Appears when the player is killed because they hurt a guardian, elder guardian, or mob wearing armor enchanted with Thorns" | "minecraft_cactus.png"
+
+" was impaled by <mob>" | "Appears when the player is killed by a trident shot by a mob" | "minecraft_trident.png" 
+
+" 
+
